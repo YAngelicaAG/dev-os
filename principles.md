@@ -1,7 +1,9 @@
 # Principio 1
 
-Soluciones simples, legibles y mantenibles antes que soluciones complejas o basadas en una tecnología específica.
+Generar soluciones simples, legibles y mantenibles antes que soluciones complejas o dependientes de una tecnología específica.
 
-La estructura del código debe ayudar a cualquier desarrollador a entender rápidamente el comportamiento del componente.
+Antes de implementar un componente, es necesario comprender completamente su contexto, propósito y posibles escenarios de uso.
 
-Los patrones de diseño son herramientas, no reglas obligatorias.
+El código debe ser reutilizable, desacoplado del contenido y fácil de entender para cualquier desarrollador del equipo.
+
+Los patrones de diseño son herramientas para resolver problemas, no reglas obligatorias.
