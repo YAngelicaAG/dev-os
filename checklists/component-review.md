@@ -61,3 +61,22 @@
 * [ ] Tiene una estructura lógica de lectura.
 * [ ] Los elementos interactivos son identificables.
 * [ ] Los estados e interacciones cumplen con las buenas prácticas de accesibilidad del proyecto.
+
+---
+
+# 4. CSS / SCSS
+
+## Pregunta
+
+**¿Los estilos son simples, escalables y fáciles de mantener?**
+
+- [ ] Usa nomenclatura clara y consistente con BEMIT.
+- [ ] Los nombres de clases están desacoplados del contenido específico.
+- [ ] La especificidad se mantiene baja y controlada.
+- [ ] Evita anidamientos innecesarios.
+- [ ] No anida más de dos niveles, salvo excepciones justificadas.
+- [ ] Evita el uso de `!important`, salvo casos muy específicos y justificados.
+- [ ] Evita código duplicado.
+- [ ] Reutiliza utilidades, mixins, variables o patrones existentes cuando aplica.
+- [ ] Separa clases de estilo, clases de estado y clases de comportamiento.
+- [ ] Las clases `js-*` no contienen estilos.
